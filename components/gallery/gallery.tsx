@@ -28,7 +28,16 @@ const Gallery = () => {
             sizes='60vw' priority
           />
          
-        
+            <Image
+            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample.jpg"
+            alt=""
+            layout="responsive"
+            width={100}
+            height={100}
+            className="rounded-lg nowimage"
+            style={{width:'95%', height: '100%', objectFit: 'contain'}}
+            sizes='60vw' priority
+          />
       
           <Image
             src="https://res.cloudinary.com/diymc30tp/image/upload/v1708365901/rectangle-15-38Z_htq6ku.jpg"
