@@ -1,4 +1,3 @@
-import  Link from 'next/link';
 import Image from 'next/image';
 
 const Gallery = () => {
@@ -38,8 +37,6 @@ const Gallery = () => {
             style={{width:'95%', height: '100%', objectFit: 'contain'}}
             sizes='60vw' priority
           />
-         </Link>
-       <Link href={'/Image/rectangle-15-38Z'} >
       
           <Image
             src="/rectangle-15-38Z.png"
