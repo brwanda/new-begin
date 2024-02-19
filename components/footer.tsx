@@ -13,9 +13,9 @@ function footer() {
              src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364963/logo-1_ezans2.png"
             alt="Logo"
             className="h-16 w-16"
-            height="80"
-            style={{  aspectRatio: "80/80", objectFit: "cover",}}
-            width="80"
+            height="100"
+            style={{  aspectRatio: "100/100", objectFit: "cover",}}
+            width="100"
           />
             
           </div>
