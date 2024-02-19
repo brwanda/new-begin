@@ -30,7 +30,7 @@ const Gallery = () => {
        
       
           <Image
-            src="/rectangle-15-38Z.png"
+            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708365901/rectangle-15-38Z_htq6ku.jpg"
             alt=""
             layout="responsive"
             width={100}
