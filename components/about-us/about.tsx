@@ -9,7 +9,7 @@ function about() {
     <div className="md:w-1/3">
       
     <Image
-            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364315/cld-sample-3.jpg"
+            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708380672/rectangle-5-gmb_yzhl1k.jpg"
             alt="Stadium"
             width={100}
             height={100}
