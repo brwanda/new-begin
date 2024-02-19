@@ -29,7 +29,7 @@ const Gallery = () => {
           />
          
           <Image
-            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample-2.jpg"
+            src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364944/rectangle-8-bg-1dF_zeatvc.jpg"
             alt=""
             layout="responsive"
             width={100}
