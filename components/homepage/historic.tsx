@@ -18,7 +18,8 @@ export default function Component() {
               }}
             />
           </div>
-          <div className="w-full md:w-1/2 mt-8 md:mt-0 py-3">
+          <div className="w-full md:w-1/2 mt-8 md:mt-0 ">
+            <div className="py-5">
              <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
             <h2 className="text-4xl font-bold leading-tight text-gray-900">
               We Are Passionate About Preparing Amazing Events
@@ -69,6 +70,7 @@ export default function Component() {
                   <h3 className="text-lg font-semibold text-gray-800">A Thousand Events Completed</h3>
                   <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing</p>
                 </div>
+              </div>
               </div>
             </div>
           </div>
