@@ -12,7 +12,8 @@ export default function Component() {
               className="object-cover rounded-lg shadow-lg mx-auto"
                src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample-2.jpg"
               style={{
-                height: "700px",
+                height: "auto",
+                maxHeight: "700px",
                 maxWidth: "600px",
                 width: "100%",
               }}
