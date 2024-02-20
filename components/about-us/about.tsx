@@ -1,9 +1,5 @@
-import { Button } from "../ui/button"
-import Image from "next/image"
-
 function about() {
   return (
-   
   <section className="flex flex-col md:flex-row items-center justify-center py-12 px-4">
         <div className="flex flex-col md:flex-row w-full max-w-6xl justify-between space-y-8 md:space-y-0 md:space-x-8">
           <div className="w-full md:w-1/2 flex">
@@ -37,7 +33,6 @@ We are committed to providing innovative solutions that exceed client expectatio
           </div>
         </div>
       </section>
-   
   )
 }
 
