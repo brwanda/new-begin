@@ -19,7 +19,7 @@ export default function Component() {
             />
           </div>
           <div className="w-full md:w-1/2 mt-8 md:mt-0 ">
-            <div className="py-5">
+            <div className="grid place-items-center h-screen">
              <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
             <h2 className="text-4xl font-bold leading-tight text-gray-900">
               We Are Passionate About Preparing Amazing Events
