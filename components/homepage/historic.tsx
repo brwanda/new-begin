@@ -29,8 +29,8 @@ export default function Component() {
               dolore magna aliqua.
             </p>
             <div className="space-y-4">
-              <div className="flex items-center p-4 rounded-lg shadow-md bg-blue-100">
-               <svg className="text-blue-900 h-6 w-6"  
+              <div className="flex items-center p-4 rounded-lg shadow-md bg-blue-900">
+               <svg className="text-white h-6 w-6"  
                 xmlns="http://www.w3.org/2000/svg"
       width="24"
       height="24"
