@@ -12,14 +12,13 @@ export default function Component() {
               className="object-cover rounded-lg shadow-lg mx-auto"
                src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample-2.jpg"
               style={{
-                height: "auto",
-                maxHeight: "700px",
+                height: "500px",
                 maxWidth: "600px",
                 width: "100%",
               }}
             />
           </div>
-          <div className="w-full md:w-1/2 mt-8 md:mt-0">
+          <div className="w-full md:w-1/2 mt-8 md:mt-0 py-3">
              <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
             <h2 className="text-4xl font-bold leading-tight text-gray-900">
               We Are Passionate About Preparing Amazing Events
