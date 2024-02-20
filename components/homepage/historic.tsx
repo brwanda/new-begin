@@ -18,7 +18,7 @@ export default function Component() {
               }}
             />
           </div>
-          <div className="w-full md:w-1/2 mt-8 md:mt-0 ">
+          <div className="w-full md:w-1/2 flex items-center">
             <div className="place-items-center py-3 p-3">
              <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
             <h2 className="text-4xl font-bold leading-tight text-gray-900">
