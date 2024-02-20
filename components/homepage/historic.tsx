@@ -30,7 +30,7 @@ function about() {
       </p>
       <div className="mt-6 grid gap-4 md:grid-cols-2">
         <div className="flex items-start p-4 rounded-lg shadow-lg bg-white">
-           <svg className="text-blue-600 h-6 w-6" 
+           <svg className="text-white h-8 w-8 experience" 
       xmlns="http://www.w3.org/2000/svg"
       width="24"
       height="24"
@@ -50,7 +50,7 @@ function about() {
           </div>
         </div>
         <div className="flex items-start p-4 rounded-lg shadow-lg bg-white">
-          <svg className="text-blue-600 h-6 w-6"
+          <svg className="text-blue-600 h-8 w-8"
       xmlns="http://www.w3.org/2000/svg"
       width="24"
       height="24"
