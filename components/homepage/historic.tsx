@@ -47,8 +47,8 @@ export default function Component() {
       <line x1="3" x2="21" y1="10" y2="10" />
     </svg>
                 <div className="ml-4">
-                  <h4 className="text-lg font-semibold text-blue-900">20 Years Of Experience</h4>
-                  <p className="text-sm text-blue-700">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+                  <h4 className="text-lg font-semibold text-white">20 Years Of Experience</h4>
+                  <p className="text-sm text-white">Lorem ipsum dolor sit amet consectetur adipiscing</p>
                 </div>
               </div>
               <div className="flex items-center p-4 mt-4 rounded-lg shadow-lg bg-white space-x-4">
