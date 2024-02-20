@@ -21,16 +21,8 @@ export default function Home() {
 </div>
 <div className="container-fluid mx-auto px-5 py-4 ">
    <Popover className="headernow container mx-auto flex items-center  px-8 py-2 h-24">
-<Image
-      src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364963/logo-1_ezans2.png"
-      width={50}
-      height={300}
-      alt="Picture of the author"
-      className="brand-1"
-      
-    />
    <Image
-      src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364947/asset-2-1_eqbpnd.png"
+      src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708472818/Authentic%20Events/FULL_LG_kmurtg.png"
       width={150}
       height={300}
       alt="Picture of the author"
