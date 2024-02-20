@@ -9,8 +9,7 @@ import { usePathname } from "next/navigation";
 
 const ImagePage: React.FC<{ params: { slug: string } }> = ({ params: { slug } }) => {
   const pathname = usePathname();
-    const kalisa = "/" + slug + ".png";
-    const checkoutpath = "/Image" +  "/" + slug;
+    const checkoutpath =slug;
     if(pathname === checkoutpath){
      
     return(
@@ -23,7 +22,7 @@ const ImagePage: React.FC<{ params: { slug: string } }> = ({ params: { slug } })
    
         </div>
       </div>
-              <Image src={kalisa} alt={kalisa} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'cover'}} sizes="60vw" priority/>
+              <Image src={checkoutpath} alt={checkoutpath} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'cover'}} sizes="60vw" priority/>
 
 
           </div>
