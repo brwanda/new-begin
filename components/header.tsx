@@ -13,7 +13,7 @@ export default function Home() {
    <div
    className="bg-cover "
    style={{
-    backgroundImage: "url('https://res.cloudinary.com/diymc30tp/image/upload/v1708364944/rectangle-8-bg-1dF_zeatvc.jpg')",
+    backgroundImage: "url('https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470179/Authentic%20Events/53437661461_00323c3b06_o_v8uppp.jpg')",
      height: "23vh",
    }}>
 <div className="container mx-auto px-5 py-4 flex justify-between items-center">
