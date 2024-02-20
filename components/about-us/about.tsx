@@ -26,9 +26,7 @@ With over two decades of experience in organizing mega events, we specialize in 
 Our team comprises seasoned professionals with a wealth of experience in event management. 
 We are committed to providing innovative solutions that exceed client expectations and contribute to the growth and development of the industry. Through our expertise and dedication, we strive to make a meaningful impact on the events landscape while upholding the values of authenticity, excellence, and community empowerment.
         </p>
-              <Link href="/About-us">
-                <Button className="mt-6 w-full md:w-48 bg-blue-600 text-white roundnow">Learn More</Button>
-              </Link>
+            
             </div>
           </div>
         </div>
