@@ -6,7 +6,21 @@ export default function Component() {
       <section className="flex flex-col md:flex-row items-center justify-center py-12 px-4">
         <div className="flex flex-col md:flex-row w-full max-w-6xl justify-between space-y-8 md:space-y-0 md:space-x-8">
           <div className="w-full md:w-1/2 space-y-8">
-            <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
+           
+            <img
+              alt="Event Stadium"
+              className="object-cover rounded-lg shadow-lg mx-auto"
+               src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample-2.jpg"
+              style={{
+                height: "auto",
+                maxHeight: "700px",
+                maxWidth: "600px",
+                width: "100%",
+              }}
+            />
+          </div>
+          <div className="w-full md:w-1/2 mt-8 md:mt-0">
+             <div className="text-sm font-semibold uppercase tracking-wider text-gray-500">Why Choose Us</div>
             <h2 className="text-4xl font-bold leading-tight text-gray-900">
               We Are Passionate About Preparing Amazing Events
             </h2>
@@ -58,19 +72,6 @@ export default function Component() {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="w-full md:w-1/2 mt-8 md:mt-0">
-            <img
-              alt="Event Stadium"
-              className="object-cover rounded-lg shadow-lg mx-auto"
-               src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364314/cld-sample-2.jpg"
-              style={{
-                height: "auto",
-                maxHeight: "400px",
-                maxWidth: "600px",
-                width: "100%",
-              }}
-            />
           </div>
         </div>
       </section>
