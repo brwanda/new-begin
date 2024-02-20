@@ -13,7 +13,7 @@ export default function Home() {
    <div
    className="bg-cover bg-center headerimag"
    style={{
-     backgroundImage: "url('https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470179/Authentic%20Events/53437661461_00323c3b06_o_v8uppp.jpg')",
+     backgroundImage: "url('https://res.cloudinary.com/dxtjjbk95/image/upload/v1708471436/Authentic%20Events/53437797093_e34282213d_o_kvkqxr.jpg')",
      height: "100vh",
    }}>
 <div className="container mx-auto px-5 py-4 flex justify-between items-center">
