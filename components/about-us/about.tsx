@@ -9,7 +9,7 @@ function about() {
               className="object-cover rounded-lg shadow-lg mx-auto"
               src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470150/Authentic%20Events/53125037362_c75666021c_o_szeivn.jpg"
               style={{
-                height: "700px",
+                height: "600px",
                 maxWidth: "600px",
                 width: "100%",
               }}
