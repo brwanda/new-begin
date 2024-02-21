@@ -20,7 +20,7 @@ const Gallery = () => {
       <div className="gallery">
         {
         MyImgUrl.map((MyImgUrl, index) => (
-        <Link key={index} href={'/Image/${index}'}>
+        <Link key={index} href={`/Image/${index}`}>
  <Image
             src={MyImgUrl}
             alt={MyImgUrl}
