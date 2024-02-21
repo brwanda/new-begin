@@ -19,7 +19,7 @@ const Gallery = () => {
     <div className="now">
       <div className="gallery">
         {
-        MyImgUrl.map(MyImgUrl, index) => (
+        MyImgUrl.map((MyImgUrl, index) => (
         <Link key={index} href={'/Image/${index}'}>
  <Image
             src={MyImgUrl}
@@ -32,6 +32,8 @@ const Gallery = () => {
             sizes='60vw' priority
           />
           </Link>
+          ))
+        }
         </div>
         
       
