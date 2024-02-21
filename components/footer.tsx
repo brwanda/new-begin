@@ -15,7 +15,7 @@ function footer() {
             className="h-16 w-16"
             height="100"
             style={{  aspectRatio: "100/100", objectFit: "cover",}}
-            width="100"
+            width="200"
           />
             
           </div>
