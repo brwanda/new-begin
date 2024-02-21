@@ -10,7 +10,7 @@ function footer() {
           <div className="flex items-center space-x-4 mb-4">
             
           <Image
-             src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364963/logo-1_ezans2.png"
+             src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708472818/Authentic%20Events/FULL_LG_kmurtg.png"
             alt="Logo"
             className="h-16 w-16"
             height="100"
