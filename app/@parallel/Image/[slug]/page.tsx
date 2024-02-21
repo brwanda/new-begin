@@ -8,7 +8,7 @@ import { usePathname } from "next/navigation";
 
 
 
-const ImagePage = ({ params: { slug } }) => {
+const ImagePage: React.FC<{ params: { slug: number } }> = ({ params: { slug } }) => {
   const pathname = usePathname();
     const checkoutpath = "Image/" + slug;
     if(pathname === checkoutpath){
