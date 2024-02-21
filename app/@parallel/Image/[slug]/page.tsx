@@ -9,7 +9,7 @@ import { usePathname } from "next/navigation";
 
 const ImagePage: React.FC<{ params: { slug: string } }> = ({ params: { slug } }) => {
   const pathname = usePathname();
-    const checkoutpath =slug;
+    const checkoutpath = slug;
     if(pathname === checkoutpath){
      
     return(
