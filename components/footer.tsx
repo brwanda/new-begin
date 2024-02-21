@@ -15,18 +15,18 @@ function footer() {
             className="h-16 w-16"
             height="100"
             style={{  aspectRatio: "100/100", objectFit: "cover",}}
-            width="200"
+            width="100"
           />
             
           </div>
           <p className="flex items-center space-x-2 mb-2">
             
             <Mail className="text-white h-6 w-6" />
-            <span>Hello@Email.com</span>
+            <span>info@Authenticevents.rw</span>
           </p>
           <p className="flex items-center space-x-2">
             <Phone className="text-white h-6 w-6" />
-            <span>+ (62) 123 456 789</span>
+            <span>+250 781 898 310</span>
           </p>
         </div>
         <div>
@@ -44,12 +44,12 @@ function footer() {
             </li>
             <li>
               <a className="hover:text-blue-500" href="#">
-                Our Services
+                Gallery
               </a>
             </li>
             <li>
               <a className="hover:text-blue-500" href="#">
-                Projects
+               Overview
               </a>
             </li>
           </ul>
