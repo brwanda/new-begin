@@ -81,7 +81,7 @@ function footer() {
         </div>
         <div>
           <h3 className="text-lg font-semibold mb-4">Stay Tuned With Us</h3>
-          <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p className="mb-4">Explore our services or contact us to start planning your next memorable event.</p>
           <div className="flex space-x-4">
             <Facebook className="text-white h-6 w-6" />
             <Instagram className="text-white h-6 w-6" />
