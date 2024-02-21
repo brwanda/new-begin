@@ -2,14 +2,15 @@
 
 import { XMarkIcon } from "@heroicons/react/24/solid";
 import Image from "next/image"
+import { MyImgUrl } from '@/newdata';
 import Link from "next/link"
 import { usePathname } from "next/navigation";
 
 
 
-const ImagePage: React.FC<{ params: { slug: string } }> = ({ params: { slug } }) => {
+const ImagePage: React.FC<{ params: { slug: integer } }> = ({ params: { slug } }) => {
   const pathname = usePathname();
-    const checkoutpath = slug;
+    const checkoutpath = "Image/" + slug;
     if(pathname === checkoutpath){
      
     return(
@@ -22,7 +23,7 @@ const ImagePage: React.FC<{ params: { slug: string } }> = ({ params: { slug } })
    
         </div>
       </div>
-              <Image src={checkoutpath} alt={checkoutpath} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'cover'}} sizes="60vw" priority/>
+              <Image src={MyImgUrl[slug]} alt={MyImgUrl[slug]} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'cover'}} sizes="60vw" priority/>
 
 
           </div>
