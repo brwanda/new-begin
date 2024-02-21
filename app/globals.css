@@ -130,15 +130,14 @@ h1, h2, h3, h4, h5, h6, p, span, a, button, body, ul, li, input, Link{
 opacity: 0.75;
 }
 .photo_container{
-  width: 60%;
-  height: 70%;
-  background-color: white;
+  width: 80%;
+  height: 90%;
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 100;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+
   overflow: hidden;
 }
 .modalnow{
