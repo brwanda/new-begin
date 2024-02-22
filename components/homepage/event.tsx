@@ -24,7 +24,7 @@ export default function Component() {
                   alt="Crossover 2023"
                   className="w-full h-full object-center object-cover"
                   height="320"
-                  src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364951/rectangle-8-bg-kv1_sxgltd.jpg"
+                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470195/Authentic%20Events/53437994094_102e8b0057_o_djshos.jpg"
                   style={{
                     aspectRatio: "320/320",
                     objectFit: "cover",
@@ -48,7 +48,7 @@ export default function Component() {
                   alt="Apostolic Tour"
                   className="w-full h-full object-center object-cover"
                   height="320"
-                  src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364939/rectangle-8-bg_id9jv0.jpg"
+                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470155/Authentic%20Events/53158705580_cb32330684_o_akvrqr.jpg"
                   style={{
                     aspectRatio: "320/320",
                     objectFit: "cover",
@@ -72,7 +72,7 @@ export default function Component() {
                   alt="Africa Haguruka24"
                   className="w-full h-full object-center object-cover"
                   height="320"
-                  src="https://res.cloudinary.com/diymc30tp/image/upload/v1708364316/cld-sample-5.jpg"
+                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470111/Authentic%20Events/53068288599_9acaa82923_o_ef6bri.jpg"
                   style={{
                     aspectRatio: "320/320",
                     objectFit: "cover",
