@@ -10,7 +10,7 @@ export default function Component() {
             <img
               alt="Event Stadium"
               className="object-cover rounded-lg shadow-lg mx-auto"
-               src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470155/Authentic%20Events/53126033195_31d73747ac_o_uy9p3r.jpg"
+               src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470192/Authentic%20Events/53436739222_72f0fd4dc2_o_p4g6dt.jpg"
               style={{
                 height: "500px",
                 maxWidth: "600px",
@@ -25,8 +25,7 @@ export default function Component() {
               We Are Passionate About Preparing Amazing Events
             </h2>
             <p className="text-gray-600">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua.
+              Glimpse our portfolio to see the magic we've created for past events. Let us bring your vision to life!
             </p>
             <div className="space-y-4">
               <div className="flex items-center p-4 rounded-lg shadow-md bg-blue-900">
@@ -48,7 +47,7 @@ export default function Component() {
     </svg>
                 <div className="ml-4">
                   <h4 className="text-lg font-semibold text-white">20 Years Of Experience</h4>
-                  <p className="text-sm text-white">Lorem ipsum dolor sit amet consectetur adipiscing</p>
+{/*                   <p className="text-sm text-white">Lorem ipsum dolor sit amet consectetur adipiscing</p> */}
                 </div>
               </div>
               <div className="flex items-center p-4 mt-4 rounded-lg shadow-lg bg-white space-x-4">
@@ -67,8 +66,8 @@ export default function Component() {
       <polyline points="22 4 12 14.01 9 11.01" />
     </svg>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold text-gray-800">A Thousand Events Completed</h3>
-                  <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing</p>
+                  <h3 className="text-lg font-semibold text-gray-800">A Hundred Events Completed</h3>
+{/*                   <p className="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing</p> */}
                 </div>
               </div>
               </div>
