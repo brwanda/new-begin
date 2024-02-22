@@ -1,5 +1,3 @@
-
-import Gallery from "@/components/about-us/gallery";
 import Header from "@/components/header";
 import Mission from "@/components/about-us/mission";
 import Vision from "@/components/about-us/vision";
@@ -14,7 +12,6 @@ function HomePage() {
       <About />
       <Mission />
       <Vision />
-      <Gallery />
       <Footer />
     
     </div>
