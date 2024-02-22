@@ -17,7 +17,7 @@ export default function Component() {
     <div className="bg-white py-12">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-base font-semibold text-gray-400 tracking-wide uppercase">EVENTS SERVICES</h2>
+{/*           <h2 className="text-base font-semibold text-gray-400 tracking-wide uppercase">EVENTS SERVICES</h2> */}
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
             <div className="sm:text-left">
               <h3 className="text-2xl font-extrabold text-gray-900 sm:text-4xl">Blog/News</h3>
