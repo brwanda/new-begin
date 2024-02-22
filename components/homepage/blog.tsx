@@ -34,7 +34,7 @@ export default function Component() {
           </div>
         </div>
         <div className="mt-10">
-        <Carousel  plugins={[plugin.current]}
+     <Carousel  plugins={[plugin.current]}
       onMouseEnter={plugin.current.stop}
       onMouseLeave={plugin.current.reset}
             >
