@@ -19,7 +19,7 @@ const ImagePage: React.FC<{ params: { slug: number } }> = ({ params: { slug } })
           <div className="px-3 pt-4 py-3">
         <div className="flex items-center justify-between">
       
-      <Link href="/Gallery"><XMarkIcon  className="h-6 w-6"  aria-hidden="true" /></Link>
+      <Link href="/Gallery"><XMarkIcon  className="h-6 w-6 text-white"  aria-hidden="true" /></Link>
    
         </div>
       </div>
