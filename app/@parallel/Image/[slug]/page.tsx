@@ -10,7 +10,7 @@ import { usePathname } from "next/navigation";
 
 const ImagePage: React.FC<{ params: { slug: number } }> = ({ params: { slug } }) => {
   const pathname = usePathname();
-    const checkoutpath = "Image/" + slug;
+    const checkoutpath = "/Image/" + slug;
     if(pathname === checkoutpath){
      
     return(
@@ -31,19 +31,7 @@ const ImagePage: React.FC<{ params: { slug: number } }> = ({ params: { slug } })
   )
 
     } else {
-        return (
-              <div className="modalnow">
-          <div className="photo_container">
-          <div className="px-3 pt-4 py-3">
-        <div className="flex items-center justify-between">
-         <h2> {pathname}</h2> <h1>{checkoutpath}</h1>
-   
-        </div>
-      </div>
-            </div>
-                </div>
-        
-          )
+        return null;
 }
 }
 export default ImagePage;
