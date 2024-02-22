@@ -23,39 +23,44 @@ export default function Component() {
     </p>
   </div>
 </div>
+
+
           <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
-            <div className="flex items-center justify-center h-16 w-24 rounded-full bg-red-500">
-              <span className="text-2xl font-bold text-white">02</span>
-            </div>
-            <div className="ml-8">
-              <h3 className="text-lg font-medium text-gray-900">Event Production</h3>
-              <p className="mt-2 text-base text-gray-500">
-                Specialized services including sound system, lighting, video/photo production, and stage design.
-              </p>
-            </div>
-          </div>
-          <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
-            <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-500">
-              <span className="text-2xl font-bold text-white">03</span>
-            </div>
-            <div className="ml-8">
-              <h3 className="text-lg font-medium text-gray-900">Event Rentals</h3>
-              <p className="mt-2 text-base text-gray-500">
-                Information about equipment available for rent and rental packages offered by Authentic Events.
-              </p>
-            </div>
-          </div>
-          <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
-            <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-700">
-              <span className="text-2xl font-bold text-white">04</span>
-            </div>
-            <div className="ml-8">
-              <h3 className="text-lg font-medium text-gray-900">Evaluation Events</h3>
-              <p className="mt-2 text-base text-gray-500">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-              </p>
-            </div>
-          </div>
+  <div className="flex items-center justify-center h-16 w-24 rounded-full bg-red-500 ">
+    <span className="text-2xl font-bold text-white">02</span>
+  </div>
+  <div className="ml-8 textdiv">
+    <h3 className="text-lg font-medium text-gray-900">Event Production</h3>
+    <p className="mt-2 text-base text-gray-500">
+    Specialized services including sound system, lighting, video/photo production, and stage design.
+    </p>
+  </div>
+</div>
+
+                 <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
+  <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-500 ">
+    <span className="text-2xl font-bold text-white">03</span>
+  </div>
+  <div className="ml-8 textdiv">
+    <h3 className="text-lg font-medium text-gray-900">Event Rentals</h3>
+    <p className="mt-2 text-base text-gray-500">
+    Information about equipment available for rent and rental packages offered by Authentic Events.
+    </p>
+  </div>
+</div>
+
+                         <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
+  <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-700 ">
+    <span className="text-2xl font-bold text-white">04</span>
+  </div>
+  <div className="ml-8 textdiv">
+    <h3 className="text-lg font-medium text-gray-900">Evaluation Events</h3>
+    <p className="mt-2 text-base text-gray-500">
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+    </p>
+  </div>
+</div>
+
         </div>
       </div>
     </div>
