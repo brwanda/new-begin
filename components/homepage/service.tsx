@@ -49,7 +49,7 @@ export default function Component() {
   </div>
 </div>
 
-                         <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
+{/*                          <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
   <div className="flex items-center justify-center h-16 w-24 rounded-full bg-blue-700 ">
     <span className="text-2xl font-bold text-white">04</span>
   </div>
@@ -59,7 +59,7 @@ export default function Component() {
      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
     </p>
   </div>
-</div>
+</div> */}
 
         </div>
       </div>
