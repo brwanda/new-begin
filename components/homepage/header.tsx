@@ -83,8 +83,8 @@ export default function Home() {
 
   
    <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-24 text-white">
-        <h1 className="text-5xl font-bold py-4">Welcome To Authentic Events!</h1>
-        <p className="mt-4 max-w-2xl text-xl py-2">
+        <h1 className="text-5xl font-bold py-4 font-extrabold">Welcome To Authentic Events!</h1>
+        <p className="mt-4 max-w-2xl text-xl py-2 font-extralight">
           At Authentic Events, we specialize in creating unforgettable experiences through expert event production and
           management services. Our mission is to exceed expectations by delivering innovative solutions and exceptional
           service to every client.
