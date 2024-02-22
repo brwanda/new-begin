@@ -72,7 +72,7 @@ export default function Component() {
                   alt="Africa Haguruka24"
                   className="w-full h-full object-center object-cover"
                   height="320"
-                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470111/Authentic%20Events/53068288599_9acaa82923_o_ef6bri.jpg"
+                  src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708629593/Authentic%20Events/52359375923_28e046b4a4_o_b9oowz.jpg"
                   style={{
                     aspectRatio: "320/320",
                     objectFit: "cover",
