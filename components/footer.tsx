@@ -12,7 +12,7 @@ function footer() {
           <Image
              src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708472818/Authentic%20Events/FULL_LG_kmurtg.png"
             alt="Logo"
-            className="h-16 w-16"
+            className="footer"
             height="100"
             style={{  aspectRatio: "100/100", objectFit: "cover",}}
             width="100"
