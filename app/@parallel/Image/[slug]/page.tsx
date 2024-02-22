@@ -23,7 +23,7 @@ const ImagePage: React.FC<{ params: { slug: number } }> = ({ params: { slug } })
    
         </div>
       </div>
-              <Image src={MyImgUrl[slug]} alt={MyImgUrl[slug]} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'cover'}} sizes="60vw" priority/>
+              <Image src={MyImgUrl[slug]} alt={MyImgUrl[slug]} width={100} height={100} style={{width:'100%',height:'100%',objectFit:'contain'}} sizes="60vw" priority/>
 
 
           </div>
