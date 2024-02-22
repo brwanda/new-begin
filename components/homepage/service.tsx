@@ -6,10 +6,10 @@ export default function Component() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between">
           <p className="text-sm font-semibold tracking-wide text-gray-500 uppercase">How it&apos;s work</p>
-          <Button className="text-sm" variant="secondary">
+{/*           <Button className="text-sm" variant="secondary">
             Get Started
           </Button>
-        </div>
+        </div> */}
         <h2 className="mt-2 text-4xl font-extrabold tracking-tight text-gray-900">Our Services</h2>
         <div className="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
         <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
