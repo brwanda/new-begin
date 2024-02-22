@@ -23,10 +23,10 @@ export default function Component() {
               <h3 className="text-2xl font-extrabold text-gray-900 sm:text-4xl">Blog/News</h3>
             </div>
             <div className="text-center">
-{/*               <p className="max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
+              <p className="max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua.
-              </p> */}
+              </p>
             </div>
           </div>
         </div>
