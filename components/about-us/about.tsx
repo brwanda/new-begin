@@ -7,7 +7,7 @@ function about() {
             <img
               alt="Event Stadium"
               className="object-cover rounded-lg shadow-lg mx-auto"
-              src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470133/Authentic%20Events/53076951784_4b7f637667_o_gveicl.jpg"
+              src="https://res.cloudinary.com/dxtjjbk95/image/upload/v1708470138/Authentic%20Events/53085570225_68fd931bb8_o_cgrsev.jpg"
               style={{
                 height: "600px",
                 maxWidth: "600px",
