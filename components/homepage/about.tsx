@@ -8,6 +8,7 @@ export default function Component() {
         <div className="flex flex-col md:flex-row w-full max-w-6xl justify-between space-y-8 md:space-y-0 md:space-x-8">
           <div className="w-full md:w-1/2 flex items-center">
             <div className="text-left">
+              
               <h2 className="text-sm font-semibold uppercase tracking-wider text-gray-500">About Us</h2>
               <h1 className="mt-4 text-2xl md:text-4xl font-bold leading-tight text-gray-900">
                 We Better Your Needs And Develop A Customized Plan That Fits Your Unique Needs
