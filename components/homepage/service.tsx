@@ -9,7 +9,8 @@ export default function Component() {
 {/*           <Button className="text-sm" variant="secondary">
             Get Started
           </Button>
-        </div> */}
+         */}
+          </div>
         <h2 className="mt-2 text-4xl font-extrabold tracking-tight text-gray-900">Our Services</h2>
         <div className="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-2">
         <div className="flex flex-row items-center p-8 bg-gray-100 rounded-lg shadow">
