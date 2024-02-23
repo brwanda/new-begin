@@ -11,10 +11,9 @@ export default function Home() {
   return (
     <>
    <div
-   className="bg-cover bg-center headerimag"
+   className="bg-cover bg-center headerimag sm:h-screen h-auto"
    style={{
      backgroundImage: "url('https://res.cloudinary.com/dxtjjbk95/image/upload/v1708554222/Authentic%20Events/Home_Mg_re8srs.jpg')",
-     height: "100vh",
    }}>
 <div className="container mx-auto px-5 py-4 flex justify-between items-center">
     
