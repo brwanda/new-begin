@@ -164,7 +164,13 @@ opacity: 0.75;
     columns: 2 40px;
     gap: 15px; 
   }
+ 
 }
+  @media (max-width: 731px AND min-width:200px) {
+     .headerimag{
+     height:auto;
+  }
+  }
 .nowimage {
   cursor: pointer;
   box-shadow: 0 5px 20px #b6cdf3;
