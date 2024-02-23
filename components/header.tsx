@@ -32,9 +32,9 @@ export default function Home() {
     <div className="grow">
       <div className="hidden sm:flex items-center justify-center gap-2 md:gap-8">
         <Link className="text-white linkson text-bold" href="./">HOME</Link>
-        <Link className="text-white linkson" href="/About-us">ABOUT US</Link>
-        <Link className="text-white linkson" href="/Gallery">GALLERY</Link>
-        <Link className="text-white linkson" href="/Overview">OVERVIEW</Link>
+        <Link className="text-white linkson" href="/about-us">ABOUT US</Link>
+        <Link className="text-white linkson" href="/gallery">GALLERY</Link>
+        <Link className="text-white linkson" href="/overview">OVERVIEW</Link>
 
       </div>
     </div>
@@ -61,8 +61,8 @@ export default function Home() {
         <div className="mt-6 pb-1 pt-1">
           <nav className="grid gap-y-8 items-center justify-center">
           <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2 " href="./">HOME</Link>
-          <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2" href="/About-us">ABOUT US</Link>
-          <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2" href="/Gallery">GALLERY</Link>
+          <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2" href="/about-us">ABOUT US</Link>
+          <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2" href="/gallery">GALLERY</Link>
           <Link className="focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-50 px-2" href="/overview">OVERVIEW</Link>
           </nav>
 

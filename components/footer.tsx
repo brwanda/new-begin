@@ -1,6 +1,7 @@
 import React from 'react'
 import { Facebook, Instagram, Linkedin, Mail, Phone } from "lucide-react";
 import Image from 'next/image';
+import Link from 'next/link'
 function footer() {
   return (
     <footer className="bg-[#1d3057] text-white">
@@ -33,24 +34,24 @@ function footer() {
           <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
           <ul className="space-y-2">
             <li>
-              <a className="hover:text-blue-500" href="#">
+              <Link className="hover:text-blue-500" href="./">
                 Home
-              </a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-blue-500" href="#">
+              <Link className="hover:text-blue-500" href="/about-us">
                 About Us
-              </a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-blue-500" href="#">
+              <Link className="hover:text-blue-500" href="/gallery">
                 Gallery
-              </a>
+              </Link>
             </li>
             <li>
-              <a className="hover:text-blue-500" href="#">
+              <Link className="hover:text-blue-500" href="/overview">
                Overview
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

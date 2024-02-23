@@ -18,7 +18,7 @@ export default function Component() {
           </div>
           <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
             <div className="group relative">
-            <Link href="/Gallery">
+            <Link href="/gallery">
               <div className="relative w-full h-80 bg-white rounded-lg overflow-hidden shadow-lg">
                 <Image
                   alt="Crossover 2023"
@@ -42,7 +42,7 @@ export default function Component() {
               </Link>
             </div>
             <div className="group relative">
-            <Link href="/Gallery">
+            <Link href="/gallery">
               <div className="relative w-full h-80 bg-white rounded-lg overflow-hidden shadow-lg">
                 <Image
                   alt="Apostolic Tour"
@@ -66,7 +66,7 @@ export default function Component() {
               </Link>
             </div>
             <div className="group relative">
-            <Link href="/Gallery">
+            <Link href="/gallery">
               <div className="relative w-full h-80 bg-white rounded-lg overflow-hidden shadow-lg">
                 <Image
                   alt="Africa Haguruka24"

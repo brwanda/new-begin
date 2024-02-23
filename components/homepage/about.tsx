@@ -17,7 +17,7 @@ export default function Component() {
                 Authentic Events, a subsidiary of Authentic Development Agency (ADA), is a profit-making company dedicated to
                 revolutionizing the events sector in Rwanda and the region
               </p>
-              <Link href="/About-us">
+              <Link href="/about-us">
                 <Button className="mt-6 w-full md:w-48 bg-blue-600 text-white roundnow">Learn More</Button>
               </Link>
             </div>
