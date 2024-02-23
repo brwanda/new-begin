@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button"
 import * as React from "react"
+import Autoplay from "embla-carousel-autoplay"
 import {
     Carousel,
     CarouselContent,
@@ -11,6 +12,9 @@ import Image from "next/image"
 
 
 export default function Component() {
+  const plugin = React.useRef(
+    Autoplay({ delay: 2000, stopOnInteraction: true })
+  ) 
   
  
   return (
@@ -31,7 +35,11 @@ export default function Component() {
           </div>
         </div>
         <div className="mt-10">
-     <Carousel>
+     <Carousel
+      plugins={[plugin.current]}
+      onMouseEnter={plugin.current.stop}
+      onMouseLeave={plugin.current.reset}
+      >
       <CarouselContent className="-ml-1">
       <CarouselItem className="pl-1 md:basis-1/2 lg:basis-1/3 flex flex-col rounded-lg shadow-lg overflow-hidden">
       <div className="p-1">

@@ -19,6 +19,7 @@
     "clsx": "^2.1.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
+    "embla-carousel-autoplay": "^8.0.0",
     "embla-carousel-react": "^8.0.0-rc22",
     "express": "^4.18.2",
     "express-session": "^1.18.0",
