@@ -167,9 +167,9 @@ opacity: 0.75;
  
 }
 
-@media only screen and (max-width: 529px) {
+@media(max-width: 493px) {
     .headerimag{
-     height:auto;
+     height: auto;
   }
 }
 .nowimage {
